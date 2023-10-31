@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c973239-4442-459c-8850-115d957f603d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/App/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/src/config/theme/tailwind.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/App/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/assets/adaptive-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/assets/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/assets/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/assets/splash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/App/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/App/app.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +38,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/Users/ealmsouti/Git/Spinify/App/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,8 +59,16 @@
       <option name="presentableId" value="Default" />
       <updated>1698784063239</updated>
       <workItem from="1698784065632" duration="375000" />
-      <workItem from="1698789889025" duration="1836000" />
+      <workItem from="1698789889025" duration="2077000" />
     </task>
+    <task id="LOCAL-00001" summary="configure tailwind css">
+      <created>1698791780558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698791780558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +78,9 @@
         <option value="$PROJECT_DIR$/App/app.d.ts" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="configure tailwind css" />
+    <option name="LAST_COMMIT_MESSAGE" value="configure tailwind css" />
   </component>
 </project>
