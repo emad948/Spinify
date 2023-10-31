@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c973239-4442-459c-8850-115d957f603d" name="Changes" comment="" />
+    <list default="true" id="7c973239-4442-459c-8850-115d957f603d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/App/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/src/config/theme/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/App/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/assets/adaptive-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/assets/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/App/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/App/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +47,18 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,10 +68,16 @@
       <option name="presentableId" value="Default" />
       <updated>1698784063239</updated>
       <workItem from="1698784065632" duration="375000" />
+      <workItem from="1698789889025" duration="1836000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/App/app.d.ts" />
+      </list>
+    </option>
   </component>
 </project>
